@@ -1,6 +1,12 @@
 ## Stinger with Track Matte Template/Sample for OBS
 
-Done in AE CC2019. More instructions later.
+Done in AE CC2019. 
+
+![obs-screenshot](.github/assets/Screenshot%20from%202021-01-26%2001-35-32.png)
+
+![ae-screenshot](.github/assets/Screenshot%202021-01-24%20194612.png)
+
+More instructions later.
 
 ## What's Included:
 - Sample transition with Alpha Channel, and track-matte on the Right.
@@ -9,30 +15,14 @@ Done in AE CC2019. More instructions later.
 
 ## License
 
-The video file under the `rendered` folder are free to use for commercial and
-personal project. No attribution required, no redistribution allowed. **Please
-send the link to this repo when you're redistributing it.**
+This repository have several license that you have to take note carefully.
+Unless stated otherwise, all files in this repo is licensed under Creative
+Commons Attribution 4.0 International License.
 
-The template has it's own license. Please check the template for more
-information on it.
-
-The encoding/render preset have same license with the video file. Please include
-the link when you're directing your user/viewers/customer when you're trying to
-give the presets.
-
-I'm still finding the correct license type for this repo. I usually use the MIT
-project for this one but apparently I have to be extra carefull with this
-license applied to creative stuff since the blur line is quite... well
-"playable".
-
-Basically here's what i want:
-- Crediting me is not required, tough if you do, I will really appreciate it.
-
-- Redistributing it "as is" or as part of your software and/or project with no
-  modifications are not allowed. You have to give link to this repository if you
-  want your user to download the stuff.
-
-- I give no lialibility towards any of this files, pieces or renders since
-  everything is given to you for free.
-
-- You're free to use it for personal and commercial projects.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+  <br />
+  This work is licensed under a 
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative
+  Commons Attribution 4.0 International License</a>.
